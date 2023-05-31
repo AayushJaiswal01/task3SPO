@@ -1,0 +1,27 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  
+
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.email{
+    height: 30px;
+    width: 250px;
+  margin-bottom: 10px;
+}
+.pass{
+    height: 30px;
+    width: 250px;
+  margin-bottom: 10px;
+}
+.btn{
+    height: 30px;
+    width: 260px;
+  margin-bottom: 10px;
+}
